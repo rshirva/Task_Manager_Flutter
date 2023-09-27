@@ -1,0 +1,39 @@
+{
+    "project_info": {
+      "project_number": "514376854353",
+      "project_id": "plan-manager-7ccce",
+      "storage_bucket": "plan-manager-7ccce.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:514376854353:android:311e12a8c651db8cff0170",
+          "android_client_info": {
+            "package_name": "com.example.task_manager"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "514376854353-8o2sndgrleq7o9p8hsde9tdks9ff0pdk.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyAq_wW_Qvb8ec01BKWqC5SCeQVc83uT4GA"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "514376854353-8o2sndgrleq7o9p8hsde9tdks9ff0pdk.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
