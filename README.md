@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # task_manager
 
 "A new Flutter project."
@@ -18,3 +19,6 @@ samples, guidance on mobile development, and a full API reference.
 =======
 # Task_Manager
 >>>>>>> ed35e0973a1e232b15ed7f59b6117a3f48a1faac
+=======
+# Task_Manager_Flutter
+>>>>>>> 8e46e44f14831475f9141b6079c7da4a16363c4d
